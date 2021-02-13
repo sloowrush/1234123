@@ -1,0 +1,16 @@
+using TicTacToeidrisulu;
+using System.Collections.Generic;
+using System.Text;
+
+namespace idrisin_proje
+{
+    class Class2
+        
+    {
+        static void Main(string[] args)
+        {
+            Program slowrush = new Program();
+        }
+
+    }
+}
